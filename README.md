@@ -1,4 +1,4 @@
 # hello-world
 Repository created during github tutorial
 
-Editing for creat a change for commit.
+Editing for create a change for commit.
